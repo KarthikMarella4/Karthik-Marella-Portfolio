@@ -41,7 +41,7 @@ export const CustomCursor = () => {
         }}
       >
         <div className={`
-          w-4 h-4 rounded-full bg-white transition-all duration-300
+          w-4 h-4 rounded-full bg-gray-200 transition-all duration-300
         `} />
       </div>
     </>
