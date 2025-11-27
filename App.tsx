@@ -75,7 +75,7 @@ export default function Portfolio() {
         </div>
       </header>
 
-      <Marquee text="AI RESEARCHER • CLOUD ENGINEER • MACHINE LEARNING • ARTIFICIAL INTELLIGENCE • OPEN TO WORK •" />
+      <Marquee text="DevOps • CLOUD ENGINEER • MACHINE LEARNING • ARTIFICIAL INTELLIGENCE • OPEN TO WORK •" />
 
       {/* --- About Section --- */}
       <section id="about" className="py-24 px-6 md:px-12 border-b border-black bg-white">
@@ -93,8 +93,8 @@ export default function Portfolio() {
             <FadeIn delay={200}>
                <div className="space-y-6 text-lg md:text-xl font-medium leading-relaxed text-gray-800 border-l-4 border-orange-600 pl-6">
                  <p>
-                   I am an AI & ML Enthusiast passionate about building intelligent systems powered by large language models, autonomous AI agents, and cloud-native platforms. I design, deploy, and optimize end-to-end machine learning workflows with DevOps precision, ensuring they are scalable, reliable, and ready for real-world use.
-                   My goal is to bridge the gap between theoretical AI concepts and practical, user-centric applications—transforming complex ideas into intelligent, production-ready solutions that create meaningful impact. 
+                  I am an AI & ML enthusiast specializing in building intelligent systems using LLMs, AI agents, and cloud-native technologies. I enjoy designing intuitive, user-focused AI features that solve real problems and improve everyday workflows.
+                  I’m constantly exploring emerging AI tools, automation techniques, and workflow orchestration platforms like n8n to build smarter, more efficient systems.
                  </p>
                </div>
             </FadeIn>
