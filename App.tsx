@@ -75,7 +75,8 @@ export default function Portfolio() {
         </div>
       </header>
 
-      <Marquee text="DevOps • CLOUD ENGINEER • MACHINE LEARNING • ARTIFICIAL INTELLIGENCE • OPEN TO WORK •" />
+      <Marquee text="AI Engineer • Machine Learning • LLMs • AI Agents • MLOps • DevOps • Cloud Engineer • n8n Workflows • Generative AI • Open To Work •
+" />
 
       {/* --- About Section --- */}
       <section id="about" className="py-24 px-6 md:px-12 border-b border-black bg-white">
